@@ -1,4 +1,5 @@
 ## Getting Started
+- Clone the project by `https://github.com/mfsi-subham/kyc-kyb-verification.git`
 - Install Nodejs from [Nodejs Official Page](https://nodejs.org/en/)
 - Open your terminal
 - Navigate to the project
