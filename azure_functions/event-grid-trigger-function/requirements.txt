@@ -1,0 +1,4 @@
+azure-functions
+Pillow
+requests
+azure-storage-blob
